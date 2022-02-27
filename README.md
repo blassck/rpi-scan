@@ -16,3 +16,6 @@
 	trusted-host=  
         mirrors.aliyun.com  
 		ypi.douban.com
+
+
+不会写.md了，先扔这
